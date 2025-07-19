@@ -1,0 +1,38 @@
+.flag {
+    width: 900px;
+    height: 600px;
+}
+
+.flag > div.orange {
+    width: 900px;
+    height: 200px;
+    background-color: orange;
+    position: relative;
+}
+
+.white {
+    width: 900px;
+    height: 200px;
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+}
+
+.green {
+    width: 900px;
+    height: 200px;
+    background-color: green;
+}
+
+.white p {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    top: 35%;
+
+}
+
+
